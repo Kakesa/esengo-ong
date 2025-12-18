@@ -30,9 +30,7 @@ const Hero = () => {
           
           <p className="text-lg md:text-xl text-primary-foreground/90 mb-8 leading-relaxed animate-fade-in-up max-w-3xl mx-auto" style={{ animationDelay: "0.2s" }}>
             Esengo Foundation est une ONG dédiée à lutter contre la malnutrition infantile et à offrir 
-            un avenir meilleur aux enfants vulnérables. À travers nos programmes de nutrition, 
-            d'éducation et de soins de santé, nous transformons des vies et redonnons espoir 
-            aux communautés les plus démunies.
+            un avenir meilleur aux enfants vulnérables.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
