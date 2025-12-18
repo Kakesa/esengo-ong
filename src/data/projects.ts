@@ -45,7 +45,7 @@ export const projects: Project[] = [
     duration: "18 mois",
     client: "Région du Kasaï",
     year: "2023",
-    mainImage: "/src/assets/hero-children.jpg",
+    mainImage: "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400&h=300&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=800&h=600&fit=crop",
@@ -89,7 +89,7 @@ export const projects: Project[] = [
     duration: "24 mois",
     client: "Kinshasa",
     year: "2022",
-    mainImage: "/src/assets/hero-image.jpg",
+    mainImage: "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400&h=300&fit=crop",
     gallery: [
       "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&h=600&fit=crop",
