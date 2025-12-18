@@ -4,7 +4,7 @@ import ScrollReveal from "@/components/ScrollReveal";
 const testimonials = [
   {
     name: "Aaron Muhindo",
-    role: "Directrice, Centre Médical Kinshasa",
+    role: "Directeur, Centre Médical Kinshasa",
     content: "Grâce à Esengo Fondation, nous avons pu digitaliser notre système de gestion des patients. L'équipe a été exceptionnelle dans la compréhension de nos besoins spécifiques.",
     rating: 5,
     image: "https://ca.slack-edge.com/T011KUB7Y3Y-U08869QT7B8-d7f3ed476a1e-512",
