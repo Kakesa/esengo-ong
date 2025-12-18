@@ -5,6 +5,9 @@ import ScrollReveal from "@/components/ScrollReveal";
 import gale1 from "@/assets/1.jpeg";
 import gale2 from "@/assets/2.jpeg";
 import gale3 from "@/assets/3.jpeg";
+import gale4 from "@/assets/4.jpeg";
+import gale5 from "@/assets/5.jpeg";
+import gale6 from "@/assets/6.jpeg";
 
 interface MediaItem {
   id: number;
@@ -43,7 +46,7 @@ const mediaItems: MediaItem[] = [
   {
     id: 4,
     type: "image",
-    src: "/src/assets/4.jpg",
+    src: gale4,
     thumbnail: "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=400&h=300&fit=crop",
     title: "Soins médicaux",
     location: "Clinique mobile, Nord-Kivu",
@@ -51,7 +54,7 @@ const mediaItems: MediaItem[] = [
   {
     id: 5,
     type: "video",
-    src: "/src/assets/5.jpeg",
+    src: gale5,
     thumbnail: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&h=300&fit=crop",
     title: "Journée de vaccination",
     location: "Village de Butembo",
@@ -59,16 +62,16 @@ const mediaItems: MediaItem[] = [
   {
     id: 6,
     type: "image",
-    src: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=800&fit=crop",
-    thumbnail: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop",
+    src: gale6,
+    thumbnail: gale6,
     title: "Rentrée scolaire",
     location: "Kinshasa",
   },
   {
     id: 7,
     type: "image",
-    src: "https://images.unsplash.com/photo-1594708767771-a7502f4e7f70?w=1200&h=800&fit=crop",
-    thumbnail: "https://images.unsplash.com/photo-1594708767771-a7502f4e7f70?w=400&h=300&fit=crop",
+    src: gale5,
+    thumbnail:gale5,
     title: "Centre nutritionnel",
     location: "Kasaï Central",
   },
