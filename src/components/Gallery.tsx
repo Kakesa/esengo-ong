@@ -2,6 +2,9 @@ import { useState } from "react";
 import { Play, X, ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import ScrollReveal from "@/components/ScrollReveal";
+import gale1 from "@/assets/1.jpeg";
+import gale2 from "@/assets/2.jpeg";
+import gale3 from "@/assets/3.jpeg";
 
 interface MediaItem {
   id: number;
@@ -16,15 +19,15 @@ const mediaItems: MediaItem[] = [
   {
     id: 1,
     type: "image",
-    src: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=800&fit=crop",
-    thumbnail: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=400&h=300&fit=crop",
+    src: gale1,
+    thumbnail: gale1,
     title: "Distribution alimentaire",
     location: "Kasaï, RDC",
   },
   {
     id: 2,
     type: "video",
-    src: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    src: gale2,
     thumbnail: "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400&h=300&fit=crop",
     title: "Témoignage d'une mère",
     location: "Centre nutritionnel Kinshasa",
@@ -32,15 +35,15 @@ const mediaItems: MediaItem[] = [
   {
     id: 3,
     type: "image",
-    src: "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=1200&h=800&fit=crop",
-    thumbnail: "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400&h=300&fit=crop",
+    src: gale3,
+    thumbnail: gale3,
     title: "Classe en plein air",
     location: "École Esengo, Kinshasa",
   },
   {
     id: 4,
     type: "image",
-    src: "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=1200&h=800&fit=crop",
+    src: "/src/assets/4.jpg",
     thumbnail: "https://images.unsplash.com/photo-1542810634-71277d95dcbb?w=400&h=300&fit=crop",
     title: "Soins médicaux",
     location: "Clinique mobile, Nord-Kivu",
@@ -48,7 +51,7 @@ const mediaItems: MediaItem[] = [
   {
     id: 5,
     type: "video",
-    src: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    src: "/src/assets/5.jpeg",
     thumbnail: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&h=300&fit=crop",
     title: "Journée de vaccination",
     location: "Village de Butembo",
