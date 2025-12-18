@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Facebook, Twitter, Linkedin, Instagram, Heart } from "lucide-react";
+import { Facebook, Twitter, Linkedin, Instagram, Heart, Target } from 'lucide-react';
 import logo from "@/assets/logo.jpg";
 
 const Footer = () => {
@@ -124,7 +124,7 @@ const Footer = () => {
             © {new Date().getFullYear()} Esengo Foundation. Tous droits réservés.
           </p>
           <p className="text-sm text-primary-foreground/70">
-            By <a href="https://espoir-kakesa.netlify.app/" className="underline hover:text-accent transition-colors">Espoir Kakesa</a>
+            By <a href="https://espoir-kakesa.netlify.app/" className="underline hover:text-accent transition-colors" target="_blank">Espoir Kakesa</a>
           </p>
         </div>
       </div>
