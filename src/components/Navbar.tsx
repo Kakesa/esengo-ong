@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Menu, X, Heart } from "lucide-react";
+import logo from "@/assets/logo.jpg";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,8 +23,8 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           {/* Brand */}
           <a href="#accueil" className="font-display text-2xl font-bold text-primary flex items-center gap-2">
-            <Heart className="h-6 w-6 text-accent" />
-            Esengo Foundation
+           <img src={logo} alt="Logo Esengo Foundation" className="h-6 w-6 border border-primary rounded-full" />
+            EF
           </a>
 
           {/* Desktop Navigation */}
