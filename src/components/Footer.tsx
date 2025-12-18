@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Facebook, Twitter, Linkedin, Instagram, Heart, Target } from 'lucide-react';
-import logo from "@/assets/logo.jpeg";
+import logo from "@/assets/white.jpeg";
 
 const Footer = () => {
   const quickLinks = [

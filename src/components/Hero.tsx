@@ -44,7 +44,7 @@ const Hero = () => {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-3 gap-6 animate-fade-in-up max-w-2xl mx-auto" style={{ animationDelay: "0.4s" }}>
+          {/* <div className="grid grid-cols-3 gap-6 animate-fade-in-up max-w-2xl mx-auto" style={{ animationDelay: "0.4s" }}>
             <div className="text-center">
               <div className="flex items-center justify-center w-12 h-12 rounded-xl bg-accent/20 mx-auto mb-2">
                 <HandHeart className="h-6 w-6 text-accent" />
@@ -66,7 +66,7 @@ const Hero = () => {
               <p className="text-2xl font-bold text-primary-foreground">8 ans</p>
               <p className="text-sm text-primary-foreground/70">D'Engagement</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
