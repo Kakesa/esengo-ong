@@ -55,18 +55,18 @@ export const projects: Project[] = [
     color: "from-rose-500/20 to-pink-500/20",
     testimonials: [
       {
-        name: "Marie Kabongo",
+        name: "Rosalie Mofoto",
         role: "Mère bénéficiaire",
         company: "Kasaï",
         content: "Grâce à Esengo Foundation, mon fils a retrouvé la santé. Il était très malade, mais après le traitement, il joue et rit à nouveau. Je suis éternellement reconnaissante.",
-        image: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&fit=crop"
+        image: "https://ca.slack-edge.com/T011KUB7Y3Y-U088A46PSE9-995ca0f94ccb-512"
       },
       {
-        name: "Dr. Jean-Pierre Mukendi",
+        name: "David Bigo",
         role: "Médecin Coordinateur",
         company: "Centre Nutritionnel Kasaï",
         content: "Le programme d'Esengo Foundation a transformé notre capacité à traiter la malnutrition. Les résultats sont remarquables et durables.",
-        image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=200&h=200&fit=crop"
+        image: "https://ca.slack-edge.com/T011KUB7Y3Y-U089CKJ8VS7-6663d82fb102-512"
       }
     ]
   },
@@ -106,11 +106,11 @@ export const projects: Project[] = [
         image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop"
       },
       {
-        name: "Sœur Françoise",
+        name: "Marina Kett",
         role: "Directrice",
         company: "École Esengo Kinshasa",
         content: "Voir ces enfants passer de la rue à la salle de classe est un miracle quotidien. Esengo Foundation donne une seconde chance à ces enfants.",
-        image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=200&h=200&fit=crop"
+        image: "https://ca.slack-edge.com/T011KUB7Y3Y-U089F82EXEG-8de282616f19-512"
       }
     ]
   },
@@ -150,11 +150,11 @@ export const projects: Project[] = [
         image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&h=200&fit=crop"
       },
       {
-        name: "Dr. Amani Byamungu",
+        name: "Glory wamene",
         role: "Médecin Chef",
         company: "Clinique Mobile Esengo",
         content: "Travailler dans ces conditions est difficile, mais voir le sourire des enfants guéris nous donne la force de continuer. Chaque vie sauvée compte.",
-        image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=200&h=200&fit=crop"
+        image: "https://ca.slack-edge.com/T011KUB7Y3Y-U05UF0FRM52-427c123414f6-512"
       }
     ]
   }
