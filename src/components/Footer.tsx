@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Facebook, Twitter, Linkedin, Instagram, Heart } from "lucide-react";
+import logo from "@/assets/logo.jpg";
 
 const Footer = () => {
   const quickLinks = [
@@ -38,7 +39,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <a href="#accueil" className="font-display text-2xl font-bold flex items-center gap-2">
-              <Heart className="h-6 w-6 text-accent" />
+              <img src={logo} alt="Logo Esengo Foundation" className="h-8 w-8 border border-primary rounded-full" />
               Esengo Foundation
             </a>
             <p className="mt-4 text-primary-foreground/70 text-sm leading-relaxed">

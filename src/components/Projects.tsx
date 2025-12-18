@@ -46,18 +46,6 @@ const Projects = () => {
                       {project.shortDescription}
                     </p>
 
-                    {/* Technologies */}
-                    <div className="flex flex-wrap gap-2 mb-4">
-                      {project.technologies.slice(0, 4).map((tech) => (
-                        <span
-                          key={tech}
-                          className="text-xs px-2 py-1 rounded-md bg-primary/10 text-primary font-medium"
-                        >
-                          {tech}
-                        </span>
-                      ))}
-                    </div>
-
                     {/* Impact */}
                     <div className="flex items-center justify-between pt-4 border-t border-border">
                       <span className="text-sm font-semibold text-accent">
