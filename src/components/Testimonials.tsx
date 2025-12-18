@@ -17,7 +17,7 @@ const testimonials = [
     image: "https://ca.slack-edge.com/T011KUB7Y3Y-U088A5J78KF-10a096933108-512",
   },
   {
-    name: "Chrestien Kalala",
+    name: "Chretien Kalala",
     role: "Responsable IT, ONG Avenir",
     content: "Les formations dispensées par Esengo Fondation ont permis à notre équipe de devenir autonome dans la maintenance de nos outils. Un investissement qui continue de porter ses fruits.",
     rating: 5,
