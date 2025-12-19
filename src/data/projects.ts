@@ -89,7 +89,7 @@ export const projects: Project[] = [
     duration: "24 mois",
     client: "Kinshasa",
     year: "2022",
-    mainImage: "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400&h=300&fit=crop",
+    mainImage: "https://z-p3-scontent.ffih1-2.fna.fbcdn.net/v/t39.30808-6/480940000_663579869675043_6492982190033782266_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7L0Hs-IMc20Q7kNvwE7rYkM&_nc_oc=AdmZzqzLcbt4oxhkjfRl3-sEhKP5EayWgjiSOYgnVmTxq53WxJo8Sl-3kmS4Z_q2gv8&_nc_pt=5&_nc_zt=23&_nc_ht=z-p3-scontent.ffih1-2.fna&_nc_gid=x4r_IrCcSlrLutItQThDBQ&oh=00_AfnRplqHjrZ8xANuV_T_u2hVy1azDatTENm49eqY1aLZBQ&oe=694A6E4B",
     gallery: [
       "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&h=600&fit=crop",
@@ -133,7 +133,7 @@ export const projects: Project[] = [
     duration: "12 mois",
     client: "Nord-Kivu",
     year: "2024",
-    mainImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&h=800&fit=crop",
+    mainImage: "https://z-p3-scontent.ffih1-2.fna.fbcdn.net/v/t39.30808-6/482008289_663579873008376_5158815172331279058_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mYQfFte-x64Q7kNvwERwEot&_nc_oc=AdnV6FJdpj57YWE7bAQYNeI86ZSUI8d0KDwFsu90d2AqX4mp0h_gdVpZFjLzd2hhjT8&_nc_pt=5&_nc_zt=23&_nc_ht=z-p3-scontent.ffih1-2.fna&_nc_gid=x4r_IrCcSlrLutItQThDBQ&oh=00_AflSwcrewT2CZs-hGyk6hWjNjUUcoHyPmYZey4bIE0lYpQ&oe=694A47F2",
     gallery: [
       "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&h=600&fit=crop",
